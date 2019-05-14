@@ -1,4 +1,9 @@
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Info
+Esimene reacti rakendus, tehtud udemy kursuse põhjal.
 
 ## Available Scripts
 
